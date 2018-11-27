@@ -10,11 +10,11 @@ Este SDK cuenta de las siguientes caracteristicas:
 - En caso de que existan tiempos de demoras mayor a 1000 ms al evaluacion retorna falso.
 - En caso de que el servidor de FlagsApp se encuentre fuera de servicio la evluacion retorna falso.
 
-### Pre requesitios
+## Pre requesitios
 
 Para poder utilizar el SDK es necesario desarollar la aplicacion en cualquier lenguaje .NET Framework
 
-### Estructura
+## Estructura
 
 - **EvaluateSdk**
 Corresponde al codigo fuente del SDK desarollado por el equipo.
