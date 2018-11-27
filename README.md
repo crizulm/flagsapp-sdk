@@ -16,16 +16,16 @@ Para poder utilizar el SDK es necesario desarollar la aplicacion en cualquier le
 
 ### Estructura
 
-- **EvaluateSdk**
+- **EvaluateSdk: **
 Corresponde al codigo fuente del SDK desarollado por el equipo.
 
--  **Sdk**
+-  **Sdk: **
 Dentro de esta carpeta se encuentran las <kbd>.dll</kbd> que pueden ser utilizadas para usar nuestro SDK en cualquier proyecto .NET
 
-- **SdkInterface**
+- **SdkInterface: **
 Se encuentra el codigo fuente de la interfaz de escritorio desarollada por el equipo para poder probar el SDK.
 
-- **Test Interface**
+- **Test Interface: **
 Se encuentran los binarios correspondientes para poder ejecutar la interfaz de escritorio y probar el SDK desarollado.
 
 ## Librerias
